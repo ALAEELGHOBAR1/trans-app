@@ -1,0 +1,8 @@
+Source Language,Target Language,Original Text,Translated Text,Model
+ar,fr,وقع كل من السيد الوزير المنتدب لدى وزيرة الاقتصاد والمالية، المكلف بالميزانية، فوزي لقجع، والممثل المقيم لمكتب البنك الإفريقي للتنمية بالمغرب، السيد أشرف ترسيم، يوم الأربعاء 10 يوليوز 2024 على الساعة 10 صباحا، بمقر وزارة الاقتصاد والمالية، مع البنك الإفريقي للتنمية على اتفاقيات تمويل التالية,"Le Ministre délégué auprès de la Ministre de l &apos; économie et des finances, chargée du budget, Fawzi Laqa &apos; a, et le Représentant résident du Bureau de la Banque africaine de développement au Maroc, M. Ashraf Mukmat, ont signé le mercredi 10 juillet 2024, à 10 heures, au siège du Ministère de l &apos; économie et des finances, avec la Banque africaine de développement, les accords de financement ci-après:",MarianMT
+fr,ar,"Bonjour! Comment ça va aujourd'hui? J'espère que vous êtes en bonne santé et heureux.
+",مرحباً، كيف حالك اليوم؟ أتمنى أن تكوني بصحة جيدة وسعيدة.,NLLB
+fr,en,Bonjour! Comment ça va aujourd'hui? J'espère que vous êtes en bonne santé et heureux.,Hello! How are you today? I hope you are healthy and happy.,NLLB
+fr,ar,Bonjour! Comment ça va aujourd'hui? J'espère que vous êtes en bonne santé et heureux.,مرحباً، كيف حالك اليوم؟ أتمنى أن تكون بصحة جيدة وسعيدة.,MarianMT
+fr,ar,je suis un ingénieur ,أنا مهندس,NLLB
+ar,fr,"""مرحبًا بكم في تطبيق الترجمة!""",Bienvenue dans l'application de traduction !,MarianMT
