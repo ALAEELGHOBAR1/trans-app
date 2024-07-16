@@ -16,9 +16,9 @@ def get_base64_encoded_image(image_path):
         return base64.b64encode(image_file.read()).decode()
 
 # Paths to your local images
-image_path_left = "/Users/macbook/Desktop/Traduction_projet/logo.png"
-image_path_right = "/Users/macbook/Desktop/Traduction_projet/logo11.png"
-background_image_path = "/Users/macbook/Desktop/Traduction_projet/back.png"
+image_path_left = "images/logo.png"
+image_path_right = "images/logo11.png"
+background_image_path = "images/back.png"
 encoded_image_left = get_base64_encoded_image(image_path_left)
 encoded_image_right = get_base64_encoded_image(image_path_right)
 encoded_background_image = get_base64_encoded_image(background_image_path)
